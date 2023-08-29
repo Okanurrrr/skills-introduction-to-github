@@ -1,4 +1,5 @@
 <?php
+//ini  adalah sintaks pemograman yang saya kerjakan di saat pelaksanaan kerja praktek
 session_start();
 
 if (!isset($_SESSION["login"])){
